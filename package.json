@@ -1,0 +1,19 @@
+{
+  "name": "sample-express",
+  "version": "1.0.0",
+  "description": "Sample express js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aptcoder/sample-express-js.git"
+  },
+  "author": "milz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aptcoder/sample-express-js/issues"
+  },
+  "homepage": "https://github.com/Aptcoder/sample-express-js#readme"
+}
