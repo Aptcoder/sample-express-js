@@ -2,9 +2,9 @@
   "name": "sample-express",
   "version": "1.0.0",
   "description": "Sample express js app",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "npm test"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Aptcoder/sample-express-js/issues"
   },
-  "homepage": "https://github.com/Aptcoder/sample-express-js#readme"
+  "homepage": "https://github.com/Aptcoder/sample-express-js#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
